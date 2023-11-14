@@ -31,13 +31,13 @@ class CrmLead(models.Model):
         [
             ('department', 'Departmento'),
             ('tic', 'TIC'),
-            ('innocamaras', 'Innocamaras')
-            ('tripartite', 'Tripartito')
-            ('idea', 'IDEA')
-            ('redes', 'Redes')
-            ('ecoinnocamaras', 'Ecoinnocamaras')
-            ('government', 'Gobierno')
-            ('without', 'Ninguna')            
+            ('innocamaras', 'Innocamaras'),
+            ('tripartite', 'Tripartito'),
+            ('idea', 'IDEA'),
+            ('redes', 'Redes'),
+            ('ecoinnocamaras', 'Ecoinnocamaras'),
+            ('government', 'Gobierno'),
+            ('without', 'Ninguna')        ,    
 
             # Añade más opciones según sea necesario
         ],
